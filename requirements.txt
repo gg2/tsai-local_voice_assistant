@@ -1,0 +1,5 @@
+sounddevice
+wave
+torchaudio
+nemo_tts
+numpy
